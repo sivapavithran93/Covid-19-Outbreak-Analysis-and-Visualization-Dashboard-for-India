@@ -1,6 +1,7 @@
 # Covid-19-Outbreak-Analysis-and-Visualization-Dashboard-for-India
 
   - Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response.
+ 
 ## Key Achievements
 
   1) Comprehensive Dashboard Development:
